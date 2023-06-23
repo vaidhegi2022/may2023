@@ -8,3 +8,5 @@ This is our third change from the git CLI
 This is our fourth change from the gut hub interface
 
 This is our fifth change from the git CLI
+
+This is the change to check git diff
