@@ -1,1 +1,3 @@
 Welcome to Priyadarsan's DevOps Training
+
+First edit from CLI
