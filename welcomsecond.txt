@@ -1,1 +1,3 @@
 new file from cli
+
+checking the merging of featureA branch to dev
